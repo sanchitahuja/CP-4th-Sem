@@ -37,7 +37,7 @@ Codes for the following programmes have been implemented in C
 
 16. WAP to implement Lagrange's interpolation Formula
 
-17. WAP to calculate the value of an Integral using following formulae:
+17. WAP to calculate the value of an Integral Y=exp(X+ cos(2X)) by dividing limits to 12 equal parts using following formulae:
     (i)   Simpson's one-third
     (ii)  Simpson's three-eighth
     (iii) Boole's
